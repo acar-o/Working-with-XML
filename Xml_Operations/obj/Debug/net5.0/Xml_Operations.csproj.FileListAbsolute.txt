@@ -1,0 +1,16 @@
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\bin\Debug\net5.0\Xml_Operations.exe
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\bin\Debug\net5.0\Xml_Operations.deps.json
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\bin\Debug\net5.0\Xml_Operations.runtimeconfig.json
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\bin\Debug\net5.0\Xml_Operations.runtimeconfig.dev.json
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\bin\Debug\net5.0\Xml_Operations.dll
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\bin\Debug\net5.0\ref\Xml_Operations.dll
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\bin\Debug\net5.0\Xml_Operations.pdb
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.csprojAssemblyReference.cache
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.GeneratedMSBuildEditorConfig.editorconfig
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.AssemblyInfoInputs.cache
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.AssemblyInfo.cs
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.csproj.CoreCompileInputs.cache
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.dll
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\ref\Xml_Operations.dll
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.pdb
+Z:\projects\personal projects\Xml_Operations\Xml_Operations\Xml_Operations\obj\Debug\net5.0\Xml_Operations.genruntimeconfig.cache
